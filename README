@@ -1,0 +1,13 @@
+This is the custom Nao Motion Editor of the NaoTeam HTWK Leipzig [1]. It's
+implemented in java and allows to code key frame transitions in groovy code 
+fragments directly in the program.
+
+The robot part is not yet open source, but with the provided source code could
+be easy reverse engineered.
+
+If you need any help contact me by mail. 
+
+The icons are from the Tango Desktop Project [2]. 
+
+[1] http://robocup.imn.htwk-leipzig.de/ 
+[2] http://tango.freedesktop.org/Tango_Desktop_Project
